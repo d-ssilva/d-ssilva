@@ -5,6 +5,13 @@
 
 Bem vindo ao meu perfil !
 --------------------------------------------------------------------------------------------------------------------------------------------
+
+:heavy_check_mark:	 Sou de SP - Z/O Osasco
+
+:heavy_check_mark:	 :cancer:
+
+:heavy_check_mark:	 Estudante de programação :eyes:
+
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=d-ssilva.d-ssilva" alt="Visitas"></p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-silva-77204312b/)](https://www.linkedin.com/in/danilo-silva-77204312b/)
