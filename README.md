@@ -10,7 +10,7 @@ Bem vindo ao meu perfil !
 
 :heavy_check_mark:	 :cancer:
 
-:heavy_check_mark:	 Estudante de programação Back end :eyes:
+:heavy_check_mark:	 Estudante de programação | Back-end :eyes:
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=d-ssilva.d-ssilva" alt="Visitas"></p>
 
