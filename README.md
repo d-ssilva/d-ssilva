@@ -1,5 +1,6 @@
 Oi, Tudo bom?!
 Bem vindo ao meu perfil!! :grinning:	👋
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=d-ssilva.d-ssilva" alt="Visitas"></p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-silva-77204312b/)](https://www.linkedin.com/in/danilo-silva-77204312b/)
 <!--
