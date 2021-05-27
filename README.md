@@ -1,6 +1,6 @@
 Oi, Tudo bom?!
 Bem vindo ao meu perfil!! :grinning:	👋
-<img src="https://marcas-logos.net/wp-content/uploads/2020/01/LinkedIn-s%C3%ADmbolo.jpg" width = 50 height = 25/>
+<img src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1622133955~hmac=dfcfd79adc7b13fe71aecae8c743e87f" width = 50 height = 25/>
 <!--
 **d-ssilva/d-ssilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
