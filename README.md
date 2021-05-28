@@ -25,10 +25,10 @@ Bem vindo ao meu perfil !
 FERRAMENTAS: 
 
 <img src="https://i.pinimg.com/originals/e0/53/d7/e053d7538d377ce2b224dbf1823e5732.png" height=40 width=40><img src="https://minerandodados.com.br/wp-content/uploads/2017/02/python-logo.png" height=40 width=40><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" height=40 width=40>
-<img src="https://logodownload.org/wp-content/uploads/2017/04/java-logo-2.png" height=40 width=30>
-<img src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" height=40 width=30>
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height=40 width=30>
-<img src="http://static1.squarespace.com/static/5d092c5193b409000129adc4/t/5d0d75044951180001635b02/1561163016097/mysql-logo.png?format=1500w" height=40 width=30>
+<img src="https://logodownload.org/wp-content/uploads/2017/04/java-logo-2.png" height=43 width=30>
+<img src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" height=40 width=40>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height=40 width=40>
+<img src="http://static1.squarespace.com/static/5d092c5193b409000129adc4/t/5d0d75044951180001635b02/1561163016097/mysql-logo.png?format=1500w" height=40 width=40>
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
