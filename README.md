@@ -1,16 +1,16 @@
 <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" align="right" height=350 width=300>
 <img src = "https://i.pinimg.com/originals/35/df/e2/35dfe2690df1f3da44f06be0f6e8de7e.gif" align="right" height=100 width=90> 
 
-<font size="7">Opa, Tudo bom?! :laughing: </font> <br /><img src = "https://i.pinimg.com/originals/d9/2e/10/d92e10f33bdc7ed0127a5ddd22e80828.gif" height=60 width=60>
+<h2>Opa, Tudo bom?!</h1> :laughing:<img src = "https://i.pinimg.com/originals/d9/2e/10/d92e10f33bdc7ed0127a5ddd22e80828.gif" height=60 width=60>
 
-Bem vindo ao meu perfil !
---------------------------------------------------------------------------------------------------------------------------------------------
+<h1>Bem vindo ao meu perfil !</h1>
+
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=d-ssilva.d-ssilva" alt="Visitas"></p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-silva-77204312b/)](https://www.linkedin.com/in/danilo-silva-77204312b/)<a href="https://www.instagram.com/d.ssilva2/">
 <img src="https://icon-library.com/images/instagram-small-icon/instagram-small-icon-12.jpg" height=22 width=22>
 </a>
---------------------------------------------------------------------------------------------------------------------------------------------
+c
 - :cancer:
 - Sou de SP - Z/O Osasco
 - Formando em Ciências da Computação pela Uninove
