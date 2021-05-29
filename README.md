@@ -10,7 +10,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-silva-77204312b/)](https://www.linkedin.com/in/danilo-silva-77204312b/)<a href="https://www.instagram.com/d.ssilva2/">
 <img src="https://icon-library.com/images/instagram-small-icon/instagram-small-icon-12.jpg" height=22 width=22>
 </a>
-c
+
 - :cancer:
 - Sou de SP - Z/O Osasco
 - Formando em Ciências da Computação pela Uninove
