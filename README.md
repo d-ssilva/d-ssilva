@@ -6,6 +6,7 @@
 <h1>Bem vindo ao meu perfil !</h1>
 
 
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=d-silva.d-silva" alt="Visitas">
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-silva-77204312b/)](https://www.linkedin.com/in/danilo-silva-77204312b/)<a href="https://www.instagram.com/d.ssilva2/">
 <img src="https://icon-library.com/images/instagram-small-icon/instagram-small-icon-12.jpg" height=22 width=22>
