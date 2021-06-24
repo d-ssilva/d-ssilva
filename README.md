@@ -22,13 +22,24 @@
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------
+ <p align="center">
 FERRAMENTAS: 
 
-<img src="https://i.pinimg.com/originals/e0/53/d7/e053d7538d377ce2b224dbf1823e5732.png" height=40 width=40><img src="https://minerandodados.com.br/wp-content/uploads/2017/02/python-logo.png" height=40 width=40><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" height=40 width=40>
+<!-- <img src="https://i.pinimg.com/originals/e0/53/d7/e053d7538d377ce2b224dbf1823e5732.png" height=40 width=40><img src="https://minerandodados.com.br/wp-content/uploads/2017/02/python-logo.png" height=40 width=40><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" height=40 width=40>
 <img src="https://logodownload.org/wp-content/uploads/2017/04/java-logo-2.png" height=43 width=30>
 <img src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" height=40 width=40>
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height=40 width=40>
 <img src="http://static1.squarespace.com/static/5d092c5193b409000129adc4/t/5d0d75044951180001635b02/1561163016097/mysql-logo.png?format=1500w" height=40 width=40>
+ -->
+ <p align="center">
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg" alt="css" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/java.svg" alt="java" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/angular.svg" alt="angular-js" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" alt="typescript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs_alt.svg" alt="nodejs" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg" alt="heroku" width="25" height="25" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
