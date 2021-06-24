@@ -15,7 +15,7 @@
 - Sou de SP - Z/O Osasco
 - Formando em Ciências da Computação pela Uninove
 - 🔭 Focando nos projetos - Bootcamp da <img src = "https://brazil.generation.org/wp-content/uploads/2019/04/video-brasil-second-video.png" height=25 width=25> :ok_hand: :raised_hands:
-- :books: Atualmente estuando Java e os frameworks Spring
+- :books: Atualmente estuando Front-End (HTML, CSS, JS, TS, Bootstrap e Angular)
 - 👯 Tenho interesses em trabalhar com projetos de tradução comunitária de games para masterizar o uso das ferramentas GIT e GITHUB 
 - 🤔 Procuro ampliar meu network com colegas que compartilhem conhecimentos JAVA, Python, sistemas Linux e Frameworks Spring e Django
 - ⚡ Fun fact: Sou Super FÃ dos universos D&D, Alien e Vampire! :nerd_face::nerd_face::nerd_face:  
