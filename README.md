@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" align="right" height=350 width=300>
 <img src = "https://i.pinimg.com/originals/35/df/e2/35dfe2690df1f3da44f06be0f6e8de7e.gif" align="right" height=100 width=90> 
 
-<h2>Opa, Tudo bom?!</h1><img src = "https://i.pinimg.com/originals/d9/2e/10/d92e10f33bdc7ed0127a5ddd22e80828.gif" height=60 width=60>
+<h2>Oi, Tudo bem?!</h1><img src = "https://i.pinimg.com/originals/d9/2e/10/d92e10f33bdc7ed0127a5ddd22e80828.gif" height=60 width=60>
 
 <h1>Bem vindo ao meu perfil !</h1>
 
@@ -33,6 +33,9 @@ FERRAMENTAS:
  -->
  <p align="center">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/python.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/django.svg" alt="react" width="25" height="25" />
+<!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/penguin.svg" alt="react" width="25" height="25" /> -->
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg" alt="css" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/java.svg" alt="java" width="25" height="25" />
