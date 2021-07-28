@@ -1,6 +1,6 @@
 
 
-<img src="https://imgur.com/KZvmGQx.jpg" height=450 width=450 align="right">
+<img src="https://imgur.com/KZvmGQx.jpg" height=350 width=350 align="right">
 <!-- <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" align="right" height=350 width=300 border="white"> -->
 <!-- <img src = "https://i.pinimg.com/originals/35/df/e2/35dfe2690df1f3da44f06be0f6e8de7e.gif" align="right" height=100 width=90>  GIF do ALIEN -->
 
@@ -11,16 +11,16 @@
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=d-silva.d-silva" alt="Visitas">
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-silva-77204312b/)](https://www.linkedin.com/in/danilo-silva-77204312b/)<a href="https://www.instagram.com/d.ssilva2/">
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-silva-77204312b/)](https://www.linkedin.com/in/danilo-silva-77204312b/)<a href="https://www.instagram.com/d.ssilva2/" >
 <img src="https://icon-library.com/images/instagram-small-icon/instagram-small-icon-12.jpg" height=22 width=22>
 </a>
 
 - :cancer:
 - Sou de SP - Z/O Osasco
 - Formando em Ciências da Computação pela Uninove
-- 🔭 Focando nos Estudos de ferramentas de Front End
-- 👯 Pretendo aprimorar meus conhecimentos com com projetos pessoais de outros como tradução comunitária de games para masterizar o uso das ferramentas GIT e GITHUB 
-- 🤔 Procuro ampliar meu network com colegas que compartilhem conhecimentos JAVA, Python, sistemas Linux e Frameworks Spring e/ou Django
+- :rocket: Focando nos Estudos de ferramentas de Front End
+- :brain: Pretendo aprimorar meus conhecimentos com com projetos pessoais e/ou outros como tradução comunitária de games para masterizar o uso das ferramentas GIT e GITHUB 
+- 🤝 Procuro ampliar meu network com colegas que compartilhem conhecimentos JAVA, Python, sistemas Linux e Frameworks Spring e/ou Django
 - ⚡ Fun fact: Sou Super FÃ dos universos D&D, Alien e Vampire! :nerd_face::nerd_face::nerd_face:  
 
 
