@@ -4,9 +4,9 @@
 <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" align="right" height=350 width=300 border="white">
 <!-- <img src = "https://i.pinimg.com/originals/35/df/e2/35dfe2690df1f3da44f06be0f6e8de7e.gif" align="right" height=100 width=90>  -->
 
-<h2>Oi, Tudo bem?!</h1>
+<!-- <h2>Oi, Tudo bem?!</h1>
 
-<h2>Bem vindo ao meu perfil !</h2>
+<h2>Bem vindo ao meu perfil !</h2> -->
 
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=d-silva.d-silva" alt="Visitas">
