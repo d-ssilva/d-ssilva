@@ -1,8 +1,8 @@
 
 
-<img src="https://imgur.com/KZvmGQx.jpg" height=350 width=350 align="right">
+<!--<img src="https://imgur.com/KZvmGQx.jpg" height=350 width=350 align="right"> -->
 <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" align="right" height=350 width=300 border="white">
-<img src = "https://i.pinimg.com/originals/35/df/e2/35dfe2690df1f3da44f06be0f6e8de7e.gif" align="right" height=100 width=90>  GIF do ALIEN
+<!-- <img src = "https://i.pinimg.com/originals/35/df/e2/35dfe2690df1f3da44f06be0f6e8de7e.gif" align="right" height=100 width=90>  -->
 
 <h2>Oi, Tudo bem?! <img src = "https://i.pinimg.com/originals/d9/2e/10/d92e10f33bdc7ed0127a5ddd22e80828.gif" height=60 width=60></h1>
 
