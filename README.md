@@ -4,7 +4,7 @@
 <!-- <img src = "https://i.pinimg.com/originals/35/df/e2/35dfe2690df1f3da44f06be0f6e8de7e.gif" align="right" height=100 width=90>  -->
 <!-- <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" align="right" height=350 width=300 border="white"> -->
 
-<h1 align="center">Olá, eu sou Danilo! 🖖🏽</h1>
+<h1 align="center">Olá, eu sou o Danilo! 🖖🏽</h1>
 
 <!-- - :cancer: / SÍMBOLO DO SIGNO -->
 <ul>
@@ -12,8 +12,8 @@
 <li> 👨🏽‍💻 Atualmente estou cursando <b>Análise e Desenvolvimento de Sistemas na FIAP</b>
 <li> 🎓 Formado em Ciências da Computação pela Uninove
 <li> 📚 Focando nos estudos e ferramentas de Front com foco em <b>PHP</b>
-<li> 🆙 Aprimorando meus conhecimentos com projetos pessoais e cursos online
-<li> ⚡ Entusiasta dos universos D&D! :nerd_face:
+<li> 🆙 Sempre aprimorando meus conhecimentos com projetos pessoais e cursos online
+<li> ⚡ Entusiasta dos universos D&D, UM, :nerd_face:
 </ul>
 <!-- <li>🤝 Procuro ampliar meu network com colegas que compartilhem conhecimentos JAVA, Python, e Frameworks Spring e/ou Django -->
 
