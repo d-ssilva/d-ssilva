@@ -4,7 +4,7 @@
 <!-- <img src = "https://i.pinimg.com/originals/35/df/e2/35dfe2690df1f3da44f06be0f6e8de7e.gif" align="right" height=100 width=90>  -->
 <!-- <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" align="right" height=350 width=300 border="white"> -->
 
-<h1 align="center">Olá eu sou Danilo! 🖖🏽</h1>
+<h1 align="center">Olá, eu sou Danilo! 🖖🏽</h1>
 
 <!-- - :cancer: / SÍMBOLO DO SIGNO -->
 <ul>
@@ -20,7 +20,7 @@
 <br>
 
 <!-- MIDIAS SOCIAIS -->
-<div align="center">
+<div align="center" style="display: inline_block">
   
 <a href="https://www.linkedin.com/in/danilo-silva-77204312b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width = "108">
