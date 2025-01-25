@@ -15,19 +15,21 @@
 <img src="https://icon-library.com/images/instagram-small-icon/instagram-small-icon-12.jpg" height=22 width=22>
 </a>
 
-- :cancer:
-- Sou de SP - Z/O Osasco
-- Formando em Ciências da Computação pela Uninove
-- :rocket: Focando nos Estudos de ferramentas de Front End
-- :brain: Pretendo aprimorar meus conhecimentos com com projetos pessoais e/ou outros como tradução comunitária de games para masterizar o uso das ferramentas GIT e GITHUB 
-- 🤝 Procuro ampliar meu network com colegas que compartilhem conhecimentos JAVA, Python, sistemas Linux e Frameworks Spring e/ou Django
-- ⚡ Fun fact: Sou Super FÃ dos universos D&D, Alien e Vampire! :nerd_face::nerd_face::nerd_face:  
+<!-- - :cancer: /-->
+<ul>
+<li>Cursando Análise e Desenvolvimento de Sistemas na FIAP;
+<li>Sou de SP - Z/O Osasco
+<li>Formando em Ciências da Computação pela Uninove;
+ 
+<li>:rocket: Focando nos Estudos de ferramentas de Front End
+<li>:brain: Pretendo aprimorar meus conhecimentos com com projetos pessoais e/ou outros como tradução comunitária de games para masterizar o uso das ferramentas GIT e GITHUB 
+<li>🤝 Procuro ampliar meu network com colegas que compartilhem conhecimentos JAVA, Python, sistemas Linux e Frameworks Spring e/ou Django
+<li>⚡ Entusiasta dos universos D&D! :nerd_face::nerd_face::nerd_face:  
+</ul>
 
-
---------------------------------------------------------------------------------------------------------------------------------------------
+<hr>
  <p align="center">
 FERRAMENTAS: 
-
 <!-- <img src="https://i.pinimg.com/originals/e0/53/d7/e053d7538d377ce2b224dbf1823e5732.png" height=40 width=40><img src="https://minerandodados.com.br/wp-content/uploads/2017/02/python-logo.png" height=40 width=40><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" height=40 width=40>
 <img src="https://logodownload.org/wp-content/uploads/2017/04/java-logo-2.png" height=43 width=30>
 <img src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" height=40 width=40>
@@ -39,10 +41,11 @@ FERRAMENTAS:
 <!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/python.svg" alt="react" width="25" height="25" /> -->
 <!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/django.svg" alt="react" width="25" height="25" />   -->
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/java.svg" alt="java" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/php.svg" alt="react" width="25" height="25" />  
 <!-- <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs.svg" alt="nodejs" width="25" height="25" /> -->
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/heroku.svg" alt="heroku" width="25" height="25" />
   
-<!-- FrontEnd -->  
+<!-- FrontEnd -->
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/html.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/css.svg" alt="css" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" alt="javascript" width="25" height="25" />    
