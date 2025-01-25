@@ -24,15 +24,21 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-ssilva&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-ssilva&layout=compact&theme=onedark)](https://github.com/d-ssilva/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+</a> -->
 
-[Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-silva-77204312b/)
-[Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<div>
+  <a href="https://www.linkedin.com/in/danilo-silva-77204312b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">    
+  </a>
+  <a herf="https://www.instagram.com/danilo.ssilva2/?next=%2F" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</div>
 
 <a href="https://www.instagram.com/d.ssilva2/" >
 <img src="[https://icon-library.com/images/instagram-small-icon/instagram-small-icon-12.jpg](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" height=22 width=22>
