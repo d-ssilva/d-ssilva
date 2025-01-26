@@ -13,7 +13,7 @@
 <li> 🎓 Formado em Ciências da Computação pela Uninove
 <li> 📚 Focando nos estudos e ferramentas de Front com foco em <b>PHP</b>
 <li> 🆙 Sempre aprimorando meus conhecimentos com projetos pessoais e cursos online
-<li> ⚡ Entusiasta dos universos D&D, UM, :nerd_face:
+<li> ⚡ Entusiasta do universo D&D :nerd_face:
 </ul>
 <!-- <li>🤝 Procuro ampliar meu network com colegas que compartilhem conhecimentos JAVA, Python, e Frameworks Spring e/ou Django -->
 
