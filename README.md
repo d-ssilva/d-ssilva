@@ -46,8 +46,8 @@
 <!-- CARTÃO DE ESTATÍSTICAS -->
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-ssilva&show_icons=true&theme=react&card_width=500)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-ssilva&show_icons=true&theme=gotham&card_width=500)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-ssilva&layout=compact&theme=react&card_width=500)](https://github.com/d-ssilva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-ssilva&layout=compact&theme=gotham&card_width=500)](https://github.com/d-ssilva/github-readme-stats)
 
 </div>
